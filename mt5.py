@@ -104,8 +104,8 @@ def fechar_posicoes(ativo):
             "type": order_type,
             "price": price,
             "deviation": 10,
-            "magic": 123456,
-            "comment": "Fechamento automático",
+            "magic": 7859,
+            "comment": "diego02071988@gmail.com",
             "position": position.ticket,  # Especifica o ticket da posição a ser fechada
         }
 
