@@ -32,7 +32,7 @@ Os ativos e seus parâmetros podem ser personalizados no dicionário `ativos`, i
 3. Edite as configurações no dicionário `ativos` de acordo com suas preferências.  
 4. Execute o script Python para iniciar o bot:  
    ```bash
-   python trading_bot.py
+   python mt5.py
    ```  
 
 ## ⚠️ Avisos
